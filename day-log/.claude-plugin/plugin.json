@@ -1,0 +1,10 @@
+{
+  "name": "day-log",
+  "version": "0.1.0",
+  "description": "A written log of your day with Claude: what you asked, when, and how long each took. Saved to ~/claude-day-log/.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Luba Inz",
+    "url": "https://efficiencysprint.com"
+  }
+}

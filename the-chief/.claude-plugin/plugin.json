@@ -1,0 +1,9 @@
+{
+  "name": "the-chief",
+  "version": "0.1.0",
+  "description": "Claude works as your Chief of Staff: carries each task to the end and tells you the one thing waiting on you.",
+  "author": {
+    "name": "Luba Inz",
+    "url": "https://efficiencysprint.com"
+  }
+}

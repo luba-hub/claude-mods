@@ -1,0 +1,10 @@
+{
+  "name": "ceo-dashboard",
+  "version": "0.1.0",
+  "description": "Your day at a glance above the prompt: tasks done, files changed, time Claude worked for you.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Luba Inz",
+    "url": "https://efficiencysprint.com"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "efficiency-sprint-mods",
+  "owner": { "name": "Luba Inz" },
+  "plugins": [
+    { "name": "the-chief", "source": "./the-chief" },
+    { "name": "ceo-dashboard", "source": "./ceo-dashboard" },
+    { "name": "ok-to-send", "source": "./ok-to-send" },
+    { "name": "day-log", "source": "./day-log" }
+  ]
+}

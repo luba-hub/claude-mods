@@ -1,0 +1,9 @@
+{
+  "name": "ok-to-send",
+  "version": "0.1.1",
+  "description": "Nothing leaves without your OK: emails, posts, messages, pushes and deploys wait until you say \"ok to send\".",
+  "author": {
+    "name": "Luba Inz",
+    "url": "https://efficiencysprint.com"
+  }
+}
